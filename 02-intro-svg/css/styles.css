@@ -1,0 +1,10 @@
+.graf {
+    background-color: #eaf4f4;
+    border: 1px solid #6b9080;
+}
+
+.barras {
+    fill:#e9c46a;
+    stroke-width:5;
+    stroke:#264653;
+}
